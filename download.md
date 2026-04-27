@@ -1,34 +1,35 @@
 <!-- ========================= -->
 
-<!-- ✦ ELITE README ✦ -->
+<!-- ✦ LEGENDARY README ✦ -->
 
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/Logo.png" width="80" />
+  <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/Logo.png" width="90" />
 </p>
 
 <h1 align="center">Joplin</h1>
 
 <p align="center">
-  A secure, open-source note-taking platform built for reliability and control
+  <i>A private, open-source note system designed for control and longevity</i>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-2563eb?style=flat-square" />
   <img src="https://img.shields.io/badge/mobile-Android%20%7C%20iOS-facc15?style=flat-square" />
+  <img src="https://img.shields.io/badge/sync-Joplin%20Cloud-2563eb?style=flat-square" />
   <img src="https://img.shields.io/badge/license-MIT-16a34a?style=flat-square" />
 </p>
 
 ---
 
 <p align="center">
-  <b>Preparing your download...</b>
+  <b>Preparing your download</b>
 </p>
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Download-Joplin-2563eb?style=for-the-badge&logo=download" />
+    <img src="https://img.shields.io/badge/Download-Joplin-2563eb?style=for-the-badge&logo=download&logoColor=white" />
   </a>
 </p>
 
@@ -38,25 +39,28 @@
 
 ---
 
-## Architecture
+## System Overview
 
-Joplin is designed with a focus on **data ownership**, **security**, and **cross-platform consistency**.
-All notes are stored locally and can be synchronised through multiple services, including its native cloud.
+Joplin is built around a simple principle: **your data remains yours**.
 
----
-
-## Core Capabilities
-
-| Feature               | Description                                       |
-| --------------------- | ------------------------------------------------- |
-| Markdown Editing      | Clean and structured note authoring               |
-| End-to-End Encryption | Full control over your data privacy               |
-| Synchronisation       | Seamless multi-device consistency                 |
-| Offline First         | Works without dependency on internet connectivity |
+It operates as an offline-first system with optional synchronisation, ensuring reliability without dependency on external services. Notes are stored locally, structured in Markdown, and secured through encryption when required.
 
 ---
 
-## Desktop Distribution
+## Capabilities
+
+| Domain          | Details                                                       |
+| --------------- | ------------------------------------------------------------- |
+| Authoring       | Markdown-based editing with structured formatting             |
+| Security        | End-to-end encryption with user-controlled keys               |
+| Synchronisation | Multi-device sync via cloud or self-hosted targets            |
+| Portability     | Full access across desktop, mobile, and terminal environments |
+
+---
+
+## Distribution
+
+### Desktop
 
 <p align="center">
   <a href="https://objects.joplinusercontent.com/v3.5.13/Joplin-Setup-3.5.13.exe">
@@ -75,7 +79,7 @@ All notes are stored locally and can be synchronised through multiple services, 
 
 ---
 
-## Mobile Distribution
+### Mobile
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=net.cozic.joplin">
@@ -88,40 +92,45 @@ All notes are stored locally and can be synchronised through multiple services, 
 
 ---
 
-## Synchronisation Layer
+## Synchronisation
 
-Joplin supports multiple sync targets including its official cloud service.
+Joplin supports multiple synchronisation targets, including its native cloud platform.
 
 <p align="center">
   <a href="https://joplinapp.org/plans/">
-    <img src="https://img.shields.io/badge/Joplin%20Cloud-Explore%20Plans-2563eb?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Joplin%20Cloud-Explore-2563eb?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## Extended Usage
+## Deployment Options
 
-* Terminal (CLI) application
-* Portable builds
-* Self-hosted sync configurations
+* Desktop applications (Windows, macOS, Linux)
+* Mobile applications (Android, iOS)
+* Terminal interface (CLI)
+* Portable builds and self-hosted sync targets
 
-<p align="center">
-  <a href="https://joplinapp.org/help/install/">
-    Installation Documentation
-  </a>
-</p>
+---
+
+## Philosophy
+
+Joplin is designed for users who prioritise:
+
+* Long-term data ownership
+* Transparent and open systems
+* Independence from proprietary platforms
 
 ---
 
 ## Contribution
 
-Joplin is an open-source project. Contributions, issues, and discussions are encouraged.
+Development is community-driven. Contributions, improvements, and discussions are welcome.
 
 ---
 
 <p align="center">
-  Designed for clarity • Built for control • Trusted by developers
+  Built for ownership • Designed for clarity • Engineered for longevity
 </p>
 
 <!-- ========================= -->
