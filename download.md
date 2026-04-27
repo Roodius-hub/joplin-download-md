@@ -1,126 +1,126 @@
 <!-- ========================= -->
 
-<!-- 🔥 PRO LEVEL README -->
+<!-- ✦ CLEAN PREMIUM README ✦ -->
 
 <!-- ========================= -->
 
-<h1 align="center" style="color:#2563eb;">Joplin</h1>
+<h1 align="center">Joplin</h1>
 
 <p align="center">
-  <b>Secure • Open Source • Powerful Note Taking</b>
+  Secure • Open Source • Powerful Note Taking
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue" />
-  <img src="https://img.shields.io/badge/mobile-Android%20%7C%20iOS-yellow" />
-  <img src="https://img.shields.io/badge/license-MIT-green" />
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-2563eb" />
+  <img src="https://img.shields.io/badge/mobile-Android%20%7C%20iOS-facc15" />
+  <img src="https://img.shields.io/badge/license-MIT-16a34a" />
 </p>
 
 ---
 
-<h3 align="center" style="color:#64748b;">
-⬇ Your download is in progress...
-</h3>
+<p align="center">
+  <b>Your download is in progress</b>
+</p>
 
 <p align="center">
-  <a href="#" style="background:#2563eb; color:white; padding:12px 24px; border-radius:10px; text-decoration:none; font-weight:600;">
-    ⬇ Download Again
+  <a href="#">
+    <img src="https://img.shields.io/badge/Download-Joplin-2563eb?style=for-the-badge" />
   </a>
 </p>
 
-<p align="center" style="color:#facc15; font-weight:500;">
-If it didn’t start automatically, click above
+<p align="center">
+  If the download did not start automatically, use the button above
 </p>
 
 ---
 
-## ✨ Why Joplin?
+## Overview
+
+Joplin is a secure and flexible note-taking application designed for reliability, privacy, and cross-platform use.
+
+---
+
+## Features
 
 <p align="center">
-
-📝 Markdown Support   •  
-🔒 End-to-End Encryption   •  
-☁️ Sync Across Devices   •  
-⚡ Fast & Lightweight
-
+  Markdown Editing &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  End-to-End Encryption &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  Cross-Device Synchronisation &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  Lightweight Performance
 </p>
 
 ---
 
-## 💻 Desktop Apps
+## Desktop Applications
 
 <p align="center">
   <a href="https://objects.joplinusercontent.com/v3.5.13/Joplin-Setup-3.5.13.exe">
-    <img alt="Windows" width="134px" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeWindows.png"/>
+    <img alt="Windows" width="140" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeWindows.png"/>
   </a>
-
   <a href="https://objects.joplinusercontent.com/v3.5.13/Joplin-3.5.13.dmg">
-    <img alt="macOS" width="134px" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeMacOS.png"/>
+    <img alt="macOS" width="140" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeMacOS.png"/>
   </a>
-
   <a href="https://objects.joplinusercontent.com/v3.5.13/Joplin-3.5.13-arm64.DMG">
-    <img alt="macOS M1" width="134px" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeMacOSM1.png"/>
+    <img alt="macOS M1" width="140" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeMacOSM1.png"/>
   </a>
-
   <a href="https://objects.joplinusercontent.com/v3.5.13/Joplin-3.5.13.AppImage">
-    <img alt="Linux" width="134px" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeLinux.png"/>
+    <img alt="Linux" width="140" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeLinux.png"/>
   </a>
 </p>
 
 ---
 
-## 📱 Mobile Apps
+## Mobile Applications
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=net.cozic.joplin">
-    <img alt="Android" style="max-height: 40px;" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeAndroid.png"/>
+    <img alt="Android" height="40" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeAndroid.png"/>
   </a>
-
   <a href="https://itunes.apple.com/us/app/joplin/id1315599797">
-    <img alt="iOS" style="max-height: 40px;" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeIOS.png"/>
+    <img alt="iOS" height="40" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeIOS.png"/>
   </a>
 </p>
 
 ---
 
-## ☁️ Sync with Joplin Cloud
+## Synchronisation
 
 <p align="center">
-  Keep your notes synced across all devices
+  Keep your notes consistent across all devices using Joplin Cloud
 </p>
 
 <p align="center">
-  <a href="https://joplinapp.org/plans/" style="color:#2563eb; font-weight:600;">
-    Explore Plans →
+  <a href="https://joplinapp.org/plans/">
+    <img src="https://img.shields.io/badge/Explore-Joplin%20Cloud-2563eb?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## ⚙️ More Options
+## Additional Options
 
 <p align="center">
-  CLI • Portable • Advanced Setup
+  Terminal Application • Portable Version • Advanced Configuration
 </p>
 
 <p align="center">
-  👉 <a href="https://joplinapp.org/help/install/" style="color:#2563eb;">
+  <a href="https://joplinapp.org/help/install/">
     Full Installation Guide
   </a>
 </p>
 
 ---
 
-## 🌟 Support
+## Support
 
 <p align="center">
-  If you like Joplin, consider giving it a ⭐ on GitHub
+  Contributions, feedback, and support are always appreciated
 </p>
 
 ---
 
-<p align="center" style="color:#94a3b8; font-size:12px;">
-Minimal • Modern • Developer Friendly
+<p align="center">
+  Minimal • Structured • Professional
 </p>
 
 <!-- ========================= -->
