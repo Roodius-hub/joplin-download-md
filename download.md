@@ -1,126 +1,127 @@
 <!-- ========================= -->
 
-<!-- ✦ CLEAN PREMIUM README ✦ -->
+<!-- ✦ ELITE README ✦ -->
 
 <!-- ========================= -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/Logo.png" width="80" />
+</p>
 
 <h1 align="center">Joplin</h1>
 
 <p align="center">
-  Secure • Open Source • Powerful Note Taking
+  A secure, open-source note-taking platform built for reliability and control
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-2563eb" />
-  <img src="https://img.shields.io/badge/mobile-Android%20%7C%20iOS-facc15" />
-  <img src="https://img.shields.io/badge/license-MIT-16a34a" />
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/mobile-Android%20%7C%20iOS-facc15?style=flat-square" />
+  <img src="https://img.shields.io/badge/license-MIT-16a34a?style=flat-square" />
 </p>
 
 ---
 
 <p align="center">
-  <b>Your download is in progress</b>
+  <b>Preparing your download...</b>
 </p>
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Download-Joplin-2563eb?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Download-Joplin-2563eb?style=for-the-badge&logo=download" />
   </a>
 </p>
 
 <p align="center">
-  If the download did not start automatically, use the button above
+  If the download does not begin automatically, use the button above
 </p>
 
 ---
 
-## Overview
+## Architecture
 
-Joplin is a secure and flexible note-taking application designed for reliability, privacy, and cross-platform use.
-
----
-
-## Features
-
-<p align="center">
-  Markdown Editing &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  End-to-End Encryption &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  Cross-Device Synchronisation &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  Lightweight Performance
-</p>
+Joplin is designed with a focus on **data ownership**, **security**, and **cross-platform consistency**.
+All notes are stored locally and can be synchronised through multiple services, including its native cloud.
 
 ---
 
-## Desktop Applications
+## Core Capabilities
+
+| Feature               | Description                                       |
+| --------------------- | ------------------------------------------------- |
+| Markdown Editing      | Clean and structured note authoring               |
+| End-to-End Encryption | Full control over your data privacy               |
+| Synchronisation       | Seamless multi-device consistency                 |
+| Offline First         | Works without dependency on internet connectivity |
+
+---
+
+## Desktop Distribution
 
 <p align="center">
   <a href="https://objects.joplinusercontent.com/v3.5.13/Joplin-Setup-3.5.13.exe">
-    <img alt="Windows" width="140" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeWindows.png"/>
+    <img width="140" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeWindows.png"/>
   </a>
   <a href="https://objects.joplinusercontent.com/v3.5.13/Joplin-3.5.13.dmg">
-    <img alt="macOS" width="140" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeMacOS.png"/>
+    <img width="140" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeMacOS.png"/>
   </a>
   <a href="https://objects.joplinusercontent.com/v3.5.13/Joplin-3.5.13-arm64.DMG">
-    <img alt="macOS M1" width="140" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeMacOSM1.png"/>
+    <img width="140" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeMacOSM1.png"/>
   </a>
   <a href="https://objects.joplinusercontent.com/v3.5.13/Joplin-3.5.13.AppImage">
-    <img alt="Linux" width="140" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeLinux.png"/>
+    <img width="140" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeLinux.png"/>
   </a>
 </p>
 
 ---
 
-## Mobile Applications
+## Mobile Distribution
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=net.cozic.joplin">
-    <img alt="Android" height="40" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeAndroid.png"/>
+    <img height="40" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeAndroid.png"/>
   </a>
   <a href="https://itunes.apple.com/us/app/joplin/id1315599797">
-    <img alt="iOS" height="40" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeIOS.png"/>
+    <img height="40" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeIOS.png"/>
   </a>
 </p>
 
 ---
 
-## Synchronisation
+## Synchronisation Layer
 
-<p align="center">
-  Keep your notes consistent across all devices using Joplin Cloud
-</p>
+Joplin supports multiple sync targets including its official cloud service.
 
 <p align="center">
   <a href="https://joplinapp.org/plans/">
-    <img src="https://img.shields.io/badge/Explore-Joplin%20Cloud-2563eb?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Joplin%20Cloud-Explore%20Plans-2563eb?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## Additional Options
+## Extended Usage
 
-<p align="center">
-  Terminal Application • Portable Version • Advanced Configuration
-</p>
+* Terminal (CLI) application
+* Portable builds
+* Self-hosted sync configurations
 
 <p align="center">
   <a href="https://joplinapp.org/help/install/">
-    Full Installation Guide
+    Installation Documentation
   </a>
 </p>
 
 ---
 
-## Support
+## Contribution
 
-<p align="center">
-  Contributions, feedback, and support are always appreciated
-</p>
+Joplin is an open-source project. Contributions, issues, and discussions are encouraged.
 
 ---
 
 <p align="center">
-  Minimal • Structured • Professional
+  Designed for clarity • Built for control • Trusted by developers
 </p>
 
 <!-- ========================= -->
