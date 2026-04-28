@@ -5,7 +5,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  [<img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/Logo.png" width="80" ](https://joplinapp.org/images/logo-text.svg)
+<img src="https://joplinapp.org/images/logo-text.svg" width="180" alt="Joplin logo with text" />
 </p>
 
 <h1 align="center">Joplin</h1>
