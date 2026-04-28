@@ -132,8 +132,6 @@ Because most note apps:
 Joplin doesn’t.
 
 ---
-
----
 ## ✦ Support
 
 <p align="center">
@@ -145,7 +143,6 @@ Joplin doesn’t.
     <a href="https://joplinapp.org/donate/">IBAN</a>
   </sub>
 </p>
-
 ---
 
 <p align="center">
