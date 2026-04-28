@@ -133,6 +133,21 @@ Joplin doesn’t.
 
 ---
 
+---
+## ✦ Support
+
+<p align="center">
+  <sub>
+    Support the project →
+    <a href="https://www.paypal.com/donate">PayPal</a> ·
+    <a href="https://github.com/sponsors/laurent22">GitHub Sponsors</a> ·
+    <a href="https://www.patreon.com/joplin">Patreon</a> ·
+    <a href="https://joplinapp.org/donate/">IBAN</a>
+  </sub>
+</p>
+
+---
+
 <p align="center">
   Minimal • Local-first • Durable
 </p>
