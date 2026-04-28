@@ -8,7 +8,6 @@
 <img src="https://joplinapp.org/images/logo-text.svg" width="180" alt="Joplin logo with text" />
 </p>
 
-
 <p align="center">
   <b>Notes, without compromise.</b>
 </p>
@@ -20,7 +19,7 @@
 ---
 
 <p align="center">
-  <a href="#">
+  <a href="https://joplinapp.org/download/">
     <img src="https://img.shields.io/badge/Download-Now-000000?style=for-the-badge&logo=github" alt="Download Joplin" />
   </a>
 </p>
