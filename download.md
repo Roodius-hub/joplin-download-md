@@ -8,7 +8,6 @@
 <img src="https://joplinapp.org/images/logo-text.svg" width="180" alt="Joplin logo with text" />
 </p>
 
-<h1 align="center">Joplin</h1>
 
 <p align="center">
   <b>Notes, without compromise.</b>
