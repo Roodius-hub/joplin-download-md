@@ -143,7 +143,6 @@ Joplin doesn’t.
     <a href="https://joplinapp.org/donate/">IBAN</a>
   </sub>
 </p>
----
 
 <p align="center">
   Minimal • Local-first • Durable
