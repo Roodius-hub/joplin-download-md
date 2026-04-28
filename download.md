@@ -73,6 +73,16 @@ Everything lives with you — sync only when *you decide*.
     <img height="36" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/BadgeIOS.png" alt="Download on the App Store"/>
   </a>
 </p>
+---
+
+<p align="center">
+  <sub>
+    For other options, such as the portable application, terminal application, or Android APK file, see the full installation details.
+    <a href="https://joplinapp.org/help/install/">Learn more →</a>
+  </sub>
+</p>
+
+---
 
 ---
 
